@@ -1,6 +1,11 @@
 # README
 
-思路就是 启动密码 + payload加密落地 + 分离加载， 解压密码是RedCodeTeam
+TODO:
+* 远程加载 结合鸡哥的SharpBeacon
+* 非对称加密，私钥隐写
+* 嵌入式payload加载器
+
+思路就是 启动密码 + payload加密落地 + 分离加载， 解压密码是yougar0x00
 
 ![](/1.png)
 
@@ -13,7 +18,3 @@
 个人微信，麻烦加的时候备注下Github。
 
 ![](/wechat.jpg)
-
-团队星球:
-
-![](/RedCodeTeam.jpg)
